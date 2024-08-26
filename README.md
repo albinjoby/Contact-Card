@@ -2,6 +2,9 @@
 
 This project showcases a simple, interactive contact card using HTML, CSS, and JavaScript. The card displays a profile image, a brief description, social media links, and a "Contact me" button.
 
+![image](https://github.com/user-attachments/assets/c04bce8d-971f-4b1a-b578-ab3a43445fcf)
+
+
 ## Features
 
 - **Interactive Tilt Effect**: Uses VanillaTilt.js to create a 3D tilt effect on the card.
